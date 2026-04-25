@@ -30,4 +30,8 @@ Jelaskan perbedaan antara metode query() dan rawQuery() pada package sqflite. Da
       Query kompleks (JOIN, GROUP BY, dll)
       Query dinamis yang sulit ditulis dengan query()
       Kebutuhan SQL yang lebih spesifik
-    
+
+
+
+bab 4: note
+https://github.com/Rahmat-E/bab4_note
