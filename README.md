@@ -1,16 +1,8 @@
 # bab3_todo
 
-A new Flutter project.
+230605110010
+Rahmat Enomoto
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Soal 1 - Konseptual 
+Jelaskan perbedaan antara metode query() dan rawQuery() pada package sqflite. Dalam kondisi apa masing-masing metode tersebut lebih tepat digunakan? Berikan contoh kasus singkat untuk setiap metode.
+  dsad
