@@ -5,7 +5,7 @@ Rahmat Enomoto
 
 ---
 
-## 📘 Soal 1 - Konseptual
+##  Soal 1 - Konseptual
 
 Pada package **sqflite**, terdapat dua metode utama untuk mengambil data dari database, yaitu **query()** dan **rawQuery()**. Keduanya memiliki fungsi yang sama, yaitu untuk mengambil data, namun berbeda dalam cara penggunaannya.
 
@@ -66,39 +66,25 @@ final result = await db.rawQuery(
 
 ---
 
-### 🎯 Kesimpulan
+###  Kesimpulan
 
 Metode `query()` lebih cocok untuk operasi sederhana dan terstruktur, sedangkan `rawQuery()` digunakan ketika membutuhkan fleksibilitas tinggi dengan penulisan SQL secara langsung.
 
 ---
 
-# 📱 To-Do List App (Flutter)
+##  Fitur Utama
 
-Aplikasi To-Do List sederhana berbasis Flutter yang menggunakan SQLite sebagai penyimpanan data lokal.
-
----
-
-## 👤 Identitas
-
-* Nama: Rahmat
-* NIM: 230605110010
-* Mata Kuliah: Multiplatform Programming
+*  Menambahkan tugas (Create)
+*  Menampilkan daftar tugas (Read)
+*  Mengedit tugas (Update)
+*  Menghapus tugas (Delete)
+*  Menandai tugas selesai / belum selesai
+*  Pencarian tugas (Search - LIKE)
+*  Filter tugas (Semua / Selesai / Belum)
 
 ---
 
-## 🚀 Fitur Utama
-
-* ✅ Menambahkan tugas (Create)
-* 📋 Menampilkan daftar tugas (Read)
-* ✏️ Mengedit tugas (Update)
-* 🗑️ Menghapus tugas (Delete)
-* ☑️ Menandai tugas selesai / belum selesai
-* 🔍 Pencarian tugas (Search - LIKE)
-* 🎯 Filter tugas (Semua / Selesai / Belum)
-
----
-
-## 🗄️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 * Flutter
 * SQLite (sqflite)
@@ -106,7 +92,7 @@ Aplikasi To-Do List sederhana berbasis Flutter yang menggunakan SQLite sebagai p
 
 ---
 
-## 🧠 Konsep yang Diterapkan
+##  Konsep yang Diterapkan
 
 * CRUD Database
 * query() dan rawQuery()
@@ -132,7 +118,7 @@ lib/
 
 ---
 
-## ▶️ Cara Menjalankan
+##  Cara Menjalankan
 
 1. Clone repository:
 
