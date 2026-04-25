@@ -4,6 +4,12 @@
 Rahmat Enomoto
 
 ---
+## 🔗 Project Lain (Bab 4 - Note App)
+
+https://github.com/Rahmat-E/bab4_note
+---
+## 🔗 Link youtube
+https://www.youtube.com/watch?v=vutA4EMgmvw
 
 ##  Soal 1 - Konseptual
 
@@ -146,11 +152,7 @@ flutter run
 
 ---
 
-## 🔗 Project Lain (Bab 4 - Note App)
 
-https://github.com/Rahmat-E/bab4_note
-
----
 
 ## 📝 Catatan
 
