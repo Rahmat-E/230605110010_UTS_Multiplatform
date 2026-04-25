@@ -31,6 +31,98 @@ Jelaskan perbedaan antara metode query() dan rawQuery() pada package sqflite. Da
       Query dinamis yang sulit ditulis dengan query()
       Kebutuhan SQL yang lebih spesifik
 
+# 📱 To-Do List App (Flutter)
+
+Aplikasi To-Do List sederhana berbasis Flutter yang menggunakan SQLite sebagai penyimpanan data lokal.
+
+---
+
+## 👤 Identitas
+
+* Nama: Rahmat
+* NIM: 230605110010
+* Mata Kuliah: Multiplatform Programming
+
+---
+
+## 🚀 Fitur Utama
+
+* ✅ Menambahkan tugas (Create)
+* 📋 Menampilkan daftar tugas (Read)
+* ✏️ Mengedit tugas (Update)
+* 🗑️ Menghapus tugas (Delete)
+* ☑️ Menandai tugas selesai / belum selesai
+* 🔍 Pencarian tugas (Search - LIKE)
+* 🎯 Filter tugas (Semua / Selesai / Belum)
+
+---
+
+## 🗄️ Teknologi yang Digunakan
+
+* Flutter
+* SQLite (sqflite package)
+* Dart
+
+---
+
+## 🧠 Konsep yang Diterapkan
+
+* CRUD Database
+* query() dan rawQuery()
+* Filter data menggunakan WHERE
+* Pencarian menggunakan LIKE
+* State Management sederhana (setState)
+
+---
+
+## 📂 Struktur Project
+
+```plaintext
+lib/
+├── main.dart
+│
+├── models/
+│   └── todo.dart
+│
+├── database/
+│   └── database_helper.dart
+│
+├── screens/
+│   ├── todo_list_screen.dart
+│   └── todo_form_screen.dart
+│
+---
+
+## ▶️ Cara Menjalankan
+
+1. Clone repository:
+
+```bash
+git clone https://github.com/Rahmat-E/230605110010_UTS_Multiplatform.git
+```
+
+2. Masuk ke folder project:
+
+```bash
+cd 230605110010_UTS_Multiplatform
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+4. Jalankan aplikasi:
+
+```bash
+flutter run
+```
+
+---
+## 📝 Catatan
+
+Project ini dibuat untuk memenuhi tugas UTS mata kuliah Multiplatform Programming.
 
 
 bab 4: note
